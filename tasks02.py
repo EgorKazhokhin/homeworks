@@ -37,7 +37,7 @@ print('you have entered:', j, 'so nice of {}'.format('you'))
 # запрос данных у пользователя и вывод их через форматированную строку
 
 with open('Text.txt') as k:
-    print(k.read()) # Распечатка содержимого файла
+    print(k.read())  # Распечатка содержимого файла
 
 
 def fun1(arg1, arg2):
