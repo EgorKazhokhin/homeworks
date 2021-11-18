@@ -1926,12 +1926,12 @@ assistants.</span></p>
         
 
 <li class="featured-content-card-ui featured-content-card--large featured-content-card--first-image featured-content-card--block-1" data-content-block-name="block-1" data-content-block-type="default">
-    <a class="featured-content-card__link" href="https://www.epam.com/about/newsroom/press-releases/2021/epam-acquires-emakina-group-bringing-new-lines-of-high-performance-marketing-and-creative-services-to-emea-markets">
+    <a class="featured-content-card__link" href="https://www.epam.com/about/newsroom/press-releases/2021/epam-wins-linkedins-best-culture-of-learning-talent-award">
         
     
     <div class="featured-content-card__image-wrapper">
         <div class="featured-content-card__parallax-block">
-            <img class="featured-content-card__image" src="/content/dam/epam/news_events/press-releases/2021/epam_acquires_emakina_group_bringing_new_lines_of_high_performance_marketing_and_creative_services_to_emea_markets_1200.jpg" alt="EPAM Acquires Emakina Group " style="background-image: url('/content/dam/epam/news_events/press-releases/2021/epam_acquires_emakina_group_bringing_new_lines_of_high_performance_marketing_and_creative_services_to_emea_markets_1200.jpg');"/>
+            <img class="featured-content-card__image" src="/content/dam/epam/news_events/press-releases/2021/epam_wins_linkedins_best_culture_of_learning_talent_award_1200.jpg" alt="EPAM Wins LinkedIn’s Best Culture of Learning Talent Award" style="background-image: url('/content/dam/epam/news_events/press-releases/2021/epam_wins_linkedins_best_culture_of_learning_talent_award_1200.jpg');"/>
             
         </div>
     </div>
@@ -1943,8 +1943,8 @@ assistants.</span></p>
     
     
     <span class="featured-content-card__content-type">What&#39;s New</span>
-    <h3 class="featured-content-card__title museo-sans font-size-23">EPAM Acquires Emakina Group </h3>
-    <p class="featured-content-card__description museo-sans font-size-18">EPAM Systems Inc., a leading digital transformation services and product engineering company, announces the acquisition of Emakina Group, a multi-award-winning digital agency. Headquartered in Belgium with 1,100+ employees and a strong presence across Central and Western Europe, the Middle East, Asia, Africa, and North America, Emakina Group will enhance EPAM’s digital experience practice. 	</p>
+    <h3 class="featured-content-card__title museo-sans font-size-23">EPAM Wins LinkedIn’s Best Culture of Learning Talent Award</h3>
+    <p class="featured-content-card__description museo-sans font-size-18">EPAM has won the ‘Best Culture of Learning’ Award at the 2021 LinkedIn Talent Awards. The award recognizes EPAM’s investment in creating learning and development opportunities for employees to grow in their careers.</p>
 
 
         
